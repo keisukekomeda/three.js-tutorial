@@ -1,0 +1,9 @@
+{
+  "name": "three.js-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/keisukekomeda/three.js-tutorial.git",
+  "author": "keisuke.komeda@gmail.com",
+  "license": "UNLICENSED",
+  "private": true
+}
